@@ -50,14 +50,14 @@
       "type": "quantitative",
       "title": "Personal Freedom",
       "axis": {"tickCount": 5},
-      "scale": {"type": "linear", "domain": [0, 10]}
+      "scale": {"type": "linear", "domain": [2, 10]}
     },
     "y": {
       "field": "ef_score",
       "type": "quantitative",
       "title": "Economic Freedom",
       "axis": {"tickCount": 5},
-      "scale": {"type": "linear", "domain": [0, 10]}
+      "scale": {"type": "linear", "domain": [2, 10]}
     }
   },
   "layer": [
