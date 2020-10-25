@@ -20,7 +20,7 @@
     },
     {"calculate": "datum.pf_ss", "as": "Safety and Security Index"}
   ],
-  "projection": {"type": "equirectangular"},
+  "projection": {"type": "equalEarth"},
   "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
